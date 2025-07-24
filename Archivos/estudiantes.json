@@ -1,0 +1,34 @@
+[
+  {
+    "Carrera": "Ingenieria en Sistemas",
+    "NumeroMatricula": "001",
+    "Nombre": "David",
+    "Edad": 22,
+    "Cedula": "001",
+    "Estado": 1
+  },
+  {
+    "Carrera": "Ingenieria en Sistemas",
+    "NumeroMatricula": "002",
+    "Nombre": "Ana",
+    "Edad": 22,
+    "Cedula": "002",
+    "Estado": 1
+  },
+  {
+    "Carrera": "Ingenieria en Sistemas",
+    "NumeroMatricula": "003",
+    "Nombre": "Carlos",
+    "Edad": 23,
+    "Cedula": "003",
+    "Estado": 0
+  },
+  {
+    "Carrera": "Ingenieria en Sistemas",
+    "NumeroMatricula": "004",
+    "Nombre": "Jason",
+    "Edad": 25,
+    "Cedula": "004",
+    "Estado": 1
+  }
+]

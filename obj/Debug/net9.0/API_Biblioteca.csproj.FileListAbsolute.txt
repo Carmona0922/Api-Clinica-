@@ -1,0 +1,96 @@
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.AssemblyInfo.cs
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\appsettings.json
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.staticwebassets.endpoints.json
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.exe
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.deps.json
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.runtimeconfig.json
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.pdb
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\scopedcss\bundle\API_Biblioteca.styles.css
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Bibl.C302807A.Up2Date
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\refint\API_Biblioteca.dll
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.pdb
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.genruntimeconfig.cache
+C:\Users\David Universidad\Documents\API_Biblioteca\obj\Debug\net9.0\ref\API_Biblioteca.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.AssemblyInfo.cs
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\refint\API_Biblioteca.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.pdb
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\appsettings.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.staticwebassets.endpoints.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.exe
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.deps.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.runtimeconfig.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.pdb
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\scopedcss\bundle\API_Biblioteca.styles.css
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Bibl.C302807A.Up2Date
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.genruntimeconfig.cache
+C:\Users\David Universidad\OneDrive - Universidad Católica de Costa Rica\Análisis y Diseño de Archivos\Clase 10\API_Biblioteca\obj\Debug\net9.0\ref\API_Biblioteca.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\appsettings.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.staticwebassets.endpoints.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.exe
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.deps.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.runtimeconfig.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\API_Biblioteca.pdb
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.AssemblyInfo.cs
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\scopedcss\bundle\API_Biblioteca.styles.css
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Bibl.C302807A.Up2Date
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\refint\API_Biblioteca.dll
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.pdb
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\API_Biblioteca.genruntimeconfig.cache
+C:\Users\David Universidad\Downloads\API_Biblioteca\obj\Debug\net9.0\ref\API_Biblioteca.dll
