@@ -80,7 +80,7 @@ namespace API_Ejercicio1.Data
             }
         }
 
-        public void InactivarEstudiante2(string cedula)
+        public void InactivarEstudiante3(string cedula)
         {
             foreach (var est in estudiantes)
             {
