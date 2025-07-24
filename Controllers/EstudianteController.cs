@@ -61,7 +61,7 @@ namespace API_Ejercicio1.Controllers
         [HttpDelete("{id}")]
         public void Delete(string id)
         {
-            estQuery.InactivarEstudiante(id);
+            estQuery.InactivarEstudiante2(id);
         }
 
      
