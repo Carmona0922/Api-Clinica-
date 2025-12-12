@@ -1,119 +1,334 @@
 [
   {
-    "ContainingType": "API_Ejercicio1.Controllers.EstudianteController",
-    "Method": "Get",
-    "RelativePath": "api/Estudiante",
+    "ContainingType": "API_Biblioteca.Controllers.CitasController",
+    "Method": "GetAll",
+    "RelativePath": "api/Citas",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[API_Ejercicio1.Modelo.Estudiante, API_Biblioteca, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "API_Ejercicio1.Controllers.EstudianteController",
-    "Method": "Post",
-    "RelativePath": "api/Estudiante",
+    "ContainingType": "API_Biblioteca.Controllers.CitasController",
+    "Method": "Create",
+    "RelativePath": "api/Citas",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "estudiante",
-        "Type": "API_Ejercicio1.Modelo.Estudiante",
+        "Name": "c",
+        "Type": "API_Biblioteca.Modelo.CitaMedica",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "API_Ejercicio1.Controllers.EstudianteController",
-    "Method": "Get",
-    "RelativePath": "api/Estudiante/{id}",
+    "ContainingType": "API_Biblioteca.Controllers.CitasController",
+    "Method": "GetById",
+    "RelativePath": "api/Citas/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
-        "Type": "System.String",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "API_Ejercicio1.Modelo.Estudiante",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "API_Ejercicio1.Controllers.EstudianteController",
-    "Method": "Put",
-    "RelativePath": "api/Estudiante/{id}",
+    "ContainingType": "API_Biblioteca.Controllers.CitasController",
+    "Method": "Update",
+    "RelativePath": "api/Citas/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
-        "Type": "System.String",
+        "Type": "System.Int32",
         "IsRequired": true
       },
       {
-        "Name": "estudiante",
-        "Type": "API_Ejercicio1.Modelo.Estudiante",
+        "Name": "c",
+        "Type": "API_Biblioteca.Modelo.CitaMedica",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "API_Ejercicio1.Controllers.EstudianteController",
+    "ContainingType": "API_Biblioteca.Controllers.CitasController",
     "Method": "Delete",
-    "RelativePath": "api/Estudiante/{id}",
+    "RelativePath": "api/Citas/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.HistorialesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Historiales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.HistorialesController",
+    "Method": "Create",
+    "RelativePath": "api/Historiales",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "h",
+        "Type": "API_Biblioteca.Modelo.HistorialClinico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.HistorialesController",
+    "Method": "GetById",
+    "RelativePath": "api/Historiales/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.HistorialesController",
+    "Method": "Update",
+    "RelativePath": "api/Historiales/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "h",
+        "Type": "API_Biblioteca.Modelo.HistorialClinico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.HistorialesController",
+    "Method": "Delete",
+    "RelativePath": "api/Historiales/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.MedicosController",
+    "Method": "GetAll",
+    "RelativePath": "api/Medicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.MedicosController",
+    "Method": "Create",
+    "RelativePath": "api/Medicos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "m",
+        "Type": "API_Biblioteca.Modelo.Medico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.MedicosController",
+    "Method": "GetById",
+    "RelativePath": "api/Medicos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.MedicosController",
+    "Method": "Update",
+    "RelativePath": "api/Medicos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "m",
+        "Type": "API_Biblioteca.Modelo.Medico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.MedicosController",
+    "Method": "Delete",
+    "RelativePath": "api/Medicos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.PacientesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Pacientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.PacientesController",
+    "Method": "Create",
+    "RelativePath": "api/Pacientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "API_Biblioteca.Modelo.Paciente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.PacientesController",
+    "Method": "GetById",
+    "RelativePath": "api/Pacientes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.PacientesController",
+    "Method": "Update",
+    "RelativePath": "api/Pacientes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "p",
+        "Type": "API_Biblioteca.Modelo.Paciente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.PacientesController",
+    "Method": "Delete",
+    "RelativePath": "api/Pacientes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Biblioteca.Controllers.PacientesController",
+    "Method": "GetByCedula",
+    "RelativePath": "api/Pacientes/cedula/{cedula}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cedula",
         "Type": "System.String",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

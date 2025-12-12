@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Dra. Sof\u00EDa Mart\u00EDnez",
+    "Cedula_Profesional": "MP-202122",
+    "Especialidad": "Cardiolog\u00EDa",
+    "Telefono": "7000-9999",
+    "Correo": "sofia@vitali.com",
+    "Horario_Consulta": "Lunes a Viernes 8am - 2pm",
+    "Estado": "Activo"
+  }
+]

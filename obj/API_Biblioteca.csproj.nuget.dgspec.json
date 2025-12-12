@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Universidad\\Downloads\\API_Biblioteca\\API_Biblioteca.csproj": {}
+    "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\API_Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Universidad\\Downloads\\API_Biblioteca\\API_Biblioteca.csproj": {
+    "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\API_Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Universidad\\Downloads\\API_Biblioteca\\API_Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\API_Biblioteca.csproj",
         "projectName": "API_Biblioteca",
-        "projectPath": "C:\\Users\\David Universidad\\Downloads\\API_Biblioteca\\API_Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\David Universidad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Universidad\\Downloads\\API_Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\API_Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\Farid A. Carmona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\David Universidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Farid A. Carmona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,13 +50,29 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.5, )"
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
             }
           },
           "imports": [
@@ -78,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

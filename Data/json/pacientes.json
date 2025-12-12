@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Carlos Herrera",
+    "Cedula": "119200500",
+    "Fecha_Nacimiento": "1995-04-10T00:00:00",
+    "Genero": "Masculino",
+    "Direccion": "San Jos\u00E9",
+    "Telefono": "8888-8888",
+    "Correo": "carlos@test.com",
+    "Estado_Clinico": "Estable",
+    "Fecha_Registro": "2025-12-11T12:38:12.7504005-06:00"
+  }
+]

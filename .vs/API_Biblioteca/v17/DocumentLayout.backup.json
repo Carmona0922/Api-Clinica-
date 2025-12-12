@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\json\\historiales.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\json\\historiales.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\jsonrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\jsonrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\controllers\\historialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:controllers\\historialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\historialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\historialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\modelo\\historialclinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:modelo\\historialclinico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\citarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\modelo\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:modelo\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\json\\citas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\json\\citas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\json\\medicos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\json\\medicos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\medicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\modelo\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:modelo\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\json\\pacientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\json\\pacientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\api_biblioteca.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:api_biblioteca.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\data\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:data\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\modelo\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:modelo\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|c:\\users\\farid a. carmona\\desktop\\examen final\\api_biblioteca\\api_biblioteca\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626EC476-8E7B-49E9-A3D9-00381CFB3B23}|API_Biblioteca.csproj|solutionrelative:modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistorialClinico.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\HistorialClinico.cs",
+              "RelativeDocumentMoniker": "Modelo\\HistorialClinico.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\HistorialClinico.cs",
+              "RelativeToolTip": "Modelo\\HistorialClinico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:41:05.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "historiales.json",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\historiales.json",
+              "RelativeDocumentMoniker": "Data\\json\\historiales.json",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\historiales.json",
+              "RelativeToolTip": "Data\\json\\historiales.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T19:37:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Controllers\\CitasController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:28:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\CitaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\CitaRepository.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\CitaRepository.cs",
+              "RelativeToolTip": "Data\\CitaRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:28:13.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "Modelo\\CitaMedica.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\CitaMedica.cs",
+              "RelativeToolTip": "Modelo\\CitaMedica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:27:43.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\JsonRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Data\\JsonRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\JsonRepositoryBase.cs",
+              "RelativeToolTip": "Data\\JsonRepositoryBase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:05:53.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:39:59.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T19:17:37.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistorialesController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\HistorialesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistorialesController.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\HistorialesController.cs",
+              "RelativeToolTip": "Controllers\\HistorialesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:42:20.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistorialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\HistorialRepository.cs",
+              "RelativeDocumentMoniker": "Data\\HistorialRepository.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\HistorialRepository.cs",
+              "RelativeToolTip": "Data\\HistorialRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:41:36.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "citas.json",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\citas.json",
+              "RelativeDocumentMoniker": "Data\\json\\citas.json",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\citas.json",
+              "RelativeToolTip": "Data\\json\\citas.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T19:27:03.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "Controllers\\MedicosController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:16:19.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\MedicoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\MedicoRepository.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\MedicoRepository.cs",
+              "RelativeToolTip": "Data\\MedicoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:15:21.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\Medico.cs",
+              "RelativeDocumentMoniker": "Modelo\\Medico.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\Medico.cs",
+              "RelativeToolTip": "Modelo\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:14:34.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "medicos.json",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\medicos.json",
+              "RelativeDocumentMoniker": "Data\\json\\medicos.json",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\medicos.json",
+              "RelativeToolTip": "Data\\json\\medicos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T19:13:54.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "API_Biblioteca.http",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\API_Biblioteca.http",
+              "RelativeDocumentMoniker": "API_Biblioteca.http",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\API_Biblioteca.http",
+              "RelativeToolTip": "API_Biblioteca.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-11T18:31:33.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T18:31:22.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "pacientes.json",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\pacientes.json",
+              "RelativeDocumentMoniker": "Data\\json\\pacientes.json",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\json\\pacientes.json",
+              "RelativeToolTip": "Data\\json\\pacientes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T18:26:56.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:08:37.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "Data\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Data\\PacienteRepository.cs",
+              "RelativeToolTip": "Data\\PacienteRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:07:46.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\Paciente.cs",
+              "RelativeDocumentMoniker": "Modelo\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\Paciente.cs",
+              "RelativeToolTip": "Modelo\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:06:56.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelo\\Persona.cs",
+              "ToolTip": "C:\\Users\\Farid A. Carmona\\Desktop\\Examen final\\API_Biblioteca\\API_Biblioteca\\Modelo\\Persona.cs",
+              "RelativeToolTip": "Modelo\\Persona.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:58:46.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "Id_Paciente": 1,
+    "Id_Medico": 1,
+    "Diagnostico": "Infecci\u00F3n respiratoria",
+    "Tratamiento": "Antibi\u00F3ticos por 7 d\u00EDas",
+    "Fecha_Consulta": "2025-03-20T00:00:00"
+  }
+]
